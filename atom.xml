@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/caoxianglong963/caoxianglong.git</id>
+    <title>Louder</title>
+    <updated>2019-05-27T10:25:58.242Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/caoxianglong963/caoxianglong.git"/>
+    <link rel="self" href="https://github.com/caoxianglong963/caoxianglong.git/atom.xml"/>
+    <logo>https://github.com/caoxianglong963/caoxianglong.git/images/avatar.png</logo>
+    <icon>https://github.com/caoxianglong963/caoxianglong.git/favicon.ico</icon>
+    <rights>All rights reserved 2019, Louder</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://github.com/caoxianglong963/caoxianglong.git/post/hello-gridea</id>
+        <link href="https://github.com/caoxianglong963/caoxianglong.git/post/hello-gridea">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
