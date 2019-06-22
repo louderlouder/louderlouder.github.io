@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://louderlouder.github.io</id>
     <title>Louder</title>
-    <updated>2019-06-17T08:09:13.245Z</updated>
+    <updated>2019-06-22T12:34:01.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://louderlouder.github.io"/>
     <link rel="self" href="https://louderlouder.github.io/atom.xml"/>
     <logo>https://louderlouder.github.io/images/avatar.png</logo>
     <icon>https://louderlouder.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Louder</rights>
+    <entry>
+        <title type="html"><![CDATA[大家帮小程序设计]]></title>
+        <id>https://louderlouder.github.io/post/da-jia-bang-xiao-cheng-xu-she-ji</id>
+        <link href="https://louderlouder.github.io/post/da-jia-bang-xiao-cheng-xu-she-ji">
+        </link>
+        <updated>2019-06-22T07:31:30.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2017年微医健康节集勋章活动]]></title>
         <id>https://louderlouder.github.io/post/2017-nian-wei-yi-jian-kang-jie-ji-xun-zhang-huo-dong</id>
